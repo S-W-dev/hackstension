@@ -1,5 +1,6 @@
-function test() {
+$('#0, #1, #2').click(function(){
+  //onclick code
 
-  javascript:alert('this code could show/hide certain buttons!');
+  alert('wussup!');
 
-}
+});
