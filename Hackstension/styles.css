@@ -1,3 +1,20 @@
-#hacks, #developers, #credits{
+body{
+  width:375px;
+}
+
+#hacks, #developers, #credits, #home{
     cursor: pointer;
+}
+
+.show {
+
+visibility: visible;
+
+}
+
+.hide {
+
+visibility: hidden;
+visibility: collapse;
+
 }

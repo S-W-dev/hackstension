@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  
+
   "name": "Hackstension",
-  "description": "An extension, but a hack...",
+  "description": "An extension, but a hack... many hacks...",
   "version": "1.0.0",
 
   "browser_action": {
